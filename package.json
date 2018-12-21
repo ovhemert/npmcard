@@ -9,6 +9,12 @@
   "scripts": {
     "test": "standard"
   },
+  "keywords": [
+    "businesscard",
+    "card",
+    "npx",
+    "terminal"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ovhemert/npmcard.git"

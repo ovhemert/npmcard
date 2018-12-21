@@ -17,4 +17,15 @@ $ npx npmcard <npm username>
 
 It's that easy.
 
-Inspired by: [@bitandbang](https://www.npmjs.com/package/bitandbang)
+## Use it
+
+Want to create and customize your own card? Use it as a module in you project.
+
+``` sh
+$ npm install npmcard
+```
+
+And use [this](https://github.com/ovhemert/npmcard-ovhemert/blob/master/bin/index.js) as an example. More docs will come, or help me write them by sending a PR ;)
+
+## Inspired by
+[@bitandbang](https://www.npmjs.com/package/bitandbang)
