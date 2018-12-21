@@ -1,15 +1,13 @@
-# npmcard
+# Your NPM Business Card
 
-Your NPM Card
+Reads public information from your NPM profile.
+
+![Example](./assets/images/example.png)
+
+## Try it
 
 ``` sh
 $ npx npmcard <npm username>
-```
-
-## Example
-
-``` sh
-$ npx npmcard ovhemert
 ```
 
 It's that easy.
