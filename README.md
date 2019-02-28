@@ -1,7 +1,7 @@
 # Your NPM Business Card
 
 [![Travis](https://img.shields.io/travis/com/ovhemert/npmcard.svg?branch=master&logo=travis)](https://travis-ci.com/ovhemert/npmcard)
-[![Dependencies](https://img.shields.io/david/ovhemert/npmcard.svg)](https://david-dm.org/ovhemert/npmcard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d241a0808c5a450f94830a747d7e7b28)](https://www.codacy.com/app/ovhemert/npmcard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ovhemert/npmcard&amp;utm_campaign=Badge_Grade)
 [![Known Vulnerabilities](https://snyk.io/test/npm/npmcard/badge.svg)](https://snyk.io/test/npm/npmcard)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
@@ -26,6 +26,12 @@ $ npm install npmcard
 ```
 
 And use [this](https://github.com/ovhemert/npmcard-ovhemert/blob/master/bin/index.js) as an example. More docs will come, or help me write them by sending a PR ;)
+
+## Maintainers
+
+Osmond van Hemert
+[![Github](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=github)](https://github.com/ovhemert/about)
+[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://www.osmondvanhemert.nl)
 
 ## Inspired by
 [@bitandbang](https://www.npmjs.com/package/bitandbang)
