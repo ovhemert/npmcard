@@ -1,6 +1,6 @@
 {
   "name": "npmcard",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Your NPM Business Card",
   "main": "./src/index.js",
   "bin": {
