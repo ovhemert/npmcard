@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/ovhemert/npmcard.git"
   },
-  "author": "Osmond van Hemert <osmond@vanhemert.nu> (https://www.osmondvanhemert.nl)",
+  "author": "Osmond van Hemert <hello@ovhemert.dev> (https://ovhemert.dev)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ovhemert/npmcard/issues"
@@ -29,9 +29,9 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.1",
+    "boxen": "^3.2.0",
+    "chalk": "^2.4.2",
     "columnify": "^1.5.4",
-    "npm-user": "^3.0.2"
+    "npm-user": "^4.1.0"
   }
 }
