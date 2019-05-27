@@ -30,8 +30,14 @@ And use [this](https://github.com/ovhemert/npmcard-ovhemert/blob/master/bin/inde
 ## Maintainers
 
 Osmond van Hemert
-[![Github](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=github)](https://github.com/ovhemert/about)
-[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://www.osmondvanhemert.nl)
+[![Github](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=github)](https://github.com/ovhemert)
+[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://ovhemert.dev)
+
+## Contributing
+
+If you would like to help out with some code, check the [details](./docs/CONTRIBUTING.md).
+
+Not a coder, but still want to support? Have a look at the options available to [donate](https://ovhemert.dev/donate).
 
 ## Inspired by
 [@bitandbang](https://www.npmjs.com/package/bitandbang)
