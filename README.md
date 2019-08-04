@@ -31,7 +31,7 @@ And use [this](https://github.com/ovhemert/npmcard-ovhemert/blob/master/bin/inde
 
 Osmond van Hemert
 [![Github](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=github)](https://github.com/ovhemert)
-[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://ovhemert.dev)
+[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://ovhemert.dev) [![Greenkeeper badge](https://badges.greenkeeper.io/ovhemert/npmcard.svg)](https://greenkeeper.io/)
 
 ## Contributing
 
