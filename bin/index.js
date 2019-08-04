@@ -4,7 +4,7 @@ const Card = require('../src/index')
 const npmUser = require('npm-user')
 
 function showCard (user) {
-  let card = new Card()
+  const card = new Card()
 
   const title = card.chalk.cyan
   const link = card.chalk.cyan

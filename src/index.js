@@ -11,25 +11,31 @@ class Card {
     this._content = []
     this._footer = null
   }
+
   addRow (items = []) {
     this._content.push(items)
     return this
   }
+
   addRowEmpty () {
     this.addRow([])
     return this
   }
+
   get chalk () {
     return chalk
   }
+
   setFooter (item) {
     this._footer = item
     return this
   }
+
   setHeader (item) {
     this._header = item
     return this
   }
+
   show (options = {}) {
     let data = ''
 
