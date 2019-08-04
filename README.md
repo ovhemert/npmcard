@@ -3,6 +3,7 @@
 [![Travis](https://img.shields.io/travis/com/ovhemert/npmcard.svg?branch=master&logo=travis)](https://travis-ci.com/ovhemert/npmcard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d241a0808c5a450f94830a747d7e7b28)](https://www.codacy.com/app/ovhemert/npmcard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ovhemert/npmcard&amp;utm_campaign=Badge_Grade)
 [![Known Vulnerabilities](https://snyk.io/test/npm/npmcard/badge.svg)](https://snyk.io/test/npm/npmcard)
+[![Greenkeeper badge](https://badges.greenkeeper.io/ovhemert/npmcard.svg)](https://greenkeeper.io/)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 Reads public information from your NPM profile.
@@ -31,7 +32,7 @@ And use [this](https://github.com/ovhemert/npmcard-ovhemert/blob/master/bin/inde
 
 Osmond van Hemert
 [![Github](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=github)](https://github.com/ovhemert)
-[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://ovhemert.dev) [![Greenkeeper badge](https://badges.greenkeeper.io/ovhemert/npmcard.svg)](https://greenkeeper.io/)
+[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://ovhemert.dev)
 
 ## Contributing
 
