@@ -4,7 +4,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d241a0808c5a450f94830a747d7e7b28)](https://www.codacy.com/app/ovhemert/npmcard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ovhemert/npmcard&amp;utm_campaign=Badge_Grade)
 [![Known Vulnerabilities](https://snyk.io/test/npm/npmcard/badge.svg)](https://snyk.io/test/npm/npmcard)
 [![Coverage Status](https://coveralls.io/repos/github/ovhemert/npmcard/badge.svg)](https://coveralls.io/github/ovhemert/npmcard)
-
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 Reads public information from your NPM profile.
