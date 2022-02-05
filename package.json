@@ -31,7 +31,7 @@
   "dependencies": {
     "boxen": "^4.2.0",
     "chalk": "^3.0.0",
-    "columnify": "^1.5.4",
+    "columnify": "^1.6.0",
     "npm-user": "^4.1.1"
   }
 }
