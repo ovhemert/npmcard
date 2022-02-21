@@ -29,7 +29,7 @@
     "standard": "^14.3.1"
   },
   "dependencies": {
-    "boxen": "^4.2.0",
+    "boxen": "^6.2.1",
     "chalk": "^3.0.0",
     "columnify": "^1.6.0",
     "npm-user": "^4.1.1"
